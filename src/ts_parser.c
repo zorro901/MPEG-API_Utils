@@ -35,8 +35,6 @@
 #include <stdarg.h>
 #include <ctype.h>
 
-#include "config.h"
-
 #include "mpeg_utils.h"
 #include "thread_utils.h"
 #include "file_utils.h"
