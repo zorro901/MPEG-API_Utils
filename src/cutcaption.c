@@ -34,8 +34,6 @@
 #include <inttypes.h>
 #include <stdarg.h>
 
-#include "config.h"
-
 #include "utils_def.h"
 #include "text_utils.h"
 #include "d2v_parser.h"
